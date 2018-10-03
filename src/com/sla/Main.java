@@ -37,7 +37,7 @@ class Main {
         System.out.println("Originated from " + RadiusII.getClass());
 
         System.out.println("\n");
-        System.out.println("C = " + c);
+        System.out.println("c = " + c);
         System.out.println("Radius of circle C: " + RadiusIII.toString() + " meters.");
         System.out.println("Originated from " + RadiusIII.getClass());
 
